@@ -1,0 +1,11 @@
+Below is a segment from a book chapter:
+---
+{segment}
+---
+Below is a summary of the chapter up until this point:
+---
+{summary}
+---
+We are going over segments of a book chapter sequentially to gradually update one comprehensive summary of the entire chapter. Update the summary to incorporate any new vital information from the current excerpt. {common_prompt}
+---
+Updated summary ({word_count} words):

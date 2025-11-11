@@ -1,0 +1,7 @@
+Below is the beginning of a book chapter:
+---
+{segment}
+---
+We are going over segments of a book chapter sequentially to gradually update one comprehensive summary of the entire chapter. {common_prompt}
+---
+Summary ({word_count} words):
