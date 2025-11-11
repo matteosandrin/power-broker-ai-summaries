@@ -1,4 +1,4 @@
-# Power Broker Summaries
+# Power Broker AI Summaries
 
 Read the summaries: https://sandr.in/power-broker/
 
